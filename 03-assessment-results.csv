@@ -1,0 +1,39 @@
+Control,Determination,Methods,Result,Control_Result,Finding_ID,POAM
+AC-2(3),AC-02(03)(a),E;T,S,Satisfied,,
+AC-2(3),AC-02(03)(b),E (relied on IA WP-03),S,Satisfied,,POAM-15 (IA)
+AC-2(3),AC-02(03)(c),I,S,Satisfied,,
+AC-2(3),AC-02(03)(d),E;T,S,Satisfied,,
+IA-2(1),IA-02(01),E;T,S,Satisfied,,
+IA-5(1),IA-05(01)(a) new passwords,E;T,S,Other Than Satisfied,SAR-05,POAM-04
+IA-5(1),IA-05(01)(a) existing passwords,I;E,O,Other Than Satisfied,SAR-05,POAM-04
+IA-5(1),IA-05(01)(b),T,S,Other Than Satisfied,,
+IA-5(1),IA-05(01)(c),E,S,Other Than Satisfied,,
+IA-5(1),IA-05(01)(h),T,S,Other Than Satisfied,,
+AU-6,AU-06a.,E,O,Other Than Satisfied,SAR-04,POAM-17
+AU-6,AU-06b.,E,S,Other Than Satisfied,,
+AU-6,AU-06c.,I,S,Other Than Satisfied,,
+AU-6,P1 triage SLA,T,O,Other Than Satisfied,SAR-04,POAM-17
+AU-11,AU-11,E;T,S,Satisfied,,
+CM-6,CM-06a.,E,S,Other Than Satisfied,,
+CM-6,CM-06b.,T,O,Other Than Satisfied,SAR-03,POAM-09
+CM-6,CM-06c.,E,O,Other Than Satisfied,SAR-03,POAM-09
+CM-6,CM-06d.,I,O,Other Than Satisfied,SAR-03,POAM-09
+CP-9(1),CP-09(01),E;I;T,S,Satisfied,,
+IR-8,IR-08a. roadmap/roles,E,S,Satisfied,,
+IR-8,IR-08a. reportable/notification,E,S,Satisfied,,
+IR-8,IR-08b.,E,S,Satisfied,,
+IR-8,IR-08c.,E,S,Satisfied,,
+IR-8,IR-08e.,E,S,Satisfied,,
+RA-5,RA-05a.,E,S,Other Than Satisfied,,
+RA-5,RA-05(05),E,O,Other Than Satisfied,SAR-02,POAM-03
+RA-5,RA-05b.,E,S,Other Than Satisfied,,
+RA-5,RA-05d.,E,O,Other Than Satisfied,SAR-02,POAM-03
+RA-5,RA-05(02),E,S,Other Than Satisfied,,
+RA-5,CI gate blocking,T,O,Other Than Satisfied,SAR-02,POAM-03
+SC-7(5),SC-07(05),E;T,S,Satisfied,,
+SC-28(1),SC-28(01) primary DB,E;T,O,Other Than Satisfied,SAR-01,POAM-10
+SC-28(1),SC-28(01) all stores,T,O,Other Than Satisfied,SAR-01,POAM-18
+SI-2,SI-02a.,E,S,Other Than Satisfied,,
+SI-2,SI-02b.,E,S,Other Than Satisfied,,
+SI-2,SI-02c.,E,O,Other Than Satisfied,SAR-02,POAM-03
+SI-2,SI-02d.,E,S,Other Than Satisfied,,
